@@ -1,4 +1,4 @@
-### ncloud sens kakaobizmsg
+# ncloud sens kakaobizmsg
 > ncloud의 sens kakaobizmsg를 이용해 알림톡 전송
  - 알림톡 전송 시스템을 모듈화
  - 전화번호를 받아 post 방식으로 localhost:3000/sens/kakaoBizMsg에 요청해서 고객에게 알림톡 전송
